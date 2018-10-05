@@ -2,7 +2,8 @@
 -e .
 numpy
 pandas
-http://download.pytorch.org/whl/cu90/torch-0.4.1-cp35-cp35m-win_amd64.whl
+# http://download.pytorch.org/whl/cu90/torch-0.4.1-cp35-cp35m-win_amd64.whl
+opencv-python
 torchvision
 # external requirements
 click
